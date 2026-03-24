@@ -33,8 +33,8 @@ LlamaFactory/saves/Qwen2.5-7B-Instruct/full/train_deepscaler_simplelr_think
 
 ```bash
 cd RL_training/
-chmod +x train_rl_v1.sh
-source train_rl_v1.sh
+chmod +x train_rl_v2.sh
+source train_rl_v2.sh
 ```
 
 脚本做了什么：
